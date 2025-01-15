@@ -1,4 +1,4 @@
 # apna
 this is third repository
 <br>
-Auther - Deependra Prajapati
+Auther - Deependra Prajapati(apna collage)
